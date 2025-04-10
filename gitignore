@@ -1,0 +1,18 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.env/
+
+# macOS system files
+.DS_Store
+
+# Log or session files (if you don't want them versioned)
+*.log
+*.csv
+
+# Automator or Platypus generated apps (if you built `.app` locally)
+*.app
