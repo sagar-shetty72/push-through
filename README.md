@@ -53,9 +53,3 @@ python3 main.py
 - Export as Markdown or JSON
 - Cross-platform support (Windows, Linux)
 - Optional Streamlit or local web version
-
-Built for frictionless self-accountability. Simple, tactile, and yours to customize.
-
----
-
-Let me know if you're ready to commit this or want help setting up the repo's public-facing polish (like description, tags, or repo topics).
